@@ -1,0 +1,100 @@
+DATA:
+  data_root: data/custom
+  train_list: null
+  val_list: null
+  train_crop_size: 192
+  val_crop_size: 216
+  base_size: 64
+  hflip: true
+  rotation: true
+  fixed_val_secret_seed: 131
+  reference_generation: highest_tier
+
+NETWORK:
+  architecture_version: rhcd_paper_v1
+  rounds: 3
+  scale: 1.5
+  n_colors: 3
+  rgb_range: 1.0
+  n_resblocks: 16
+  n_feats: 64
+  res_scale: 1
+  fixed_scale: false
+  rescale: up
+  up_sampler: sampleB
+  down_sampler: sampleB
+  K: 4
+  num_experts_SAconv: 4
+  num_experts_CRM: 8
+  fusion_type: source_moe
+  source_stem_blocks: 2
+  expert_definition: paper
+  scab_spatial_gating: false
+  detail_residual_scale: 0.1
+  secret_residual_scale: 1.0
+  secret_residual_weight: 0.05
+  source_moe_router_init_bias: 0.0
+  control_embed_bias: -2.0
+  hce_hidden_channels: 128
+  hce_fusion_type: single_source
+  hce_normalization: group
+  hce_head_normalization: none
+  hce_offset_limit: 0.5
+
+LOSS:
+  loss_img_weight: 1.0
+  loss_secret_weight: 0.2
+  loss_consistency_weight: 0.3
+  rd_train_clamp: true
+
+TRAIN:
+  device: cuda
+  train_gpu: [0]
+  workers: 4
+  batch_size: 10
+  batch_size_val: 1
+  epochs: 300
+  base_lr: 0.0001
+  adam_betas: [0.5, 0.999]
+  weight_decay: 0.0
+  lr_step_size: 60
+  lr_gamma: 0.5
+  manual_seed: 131
+  gradient_clip: 0.0
+  print_freq: 10
+  eval_freq: 1
+  select_after_epoch: 0
+  save_path: runs/three_round
+  weight: null
+  resume: null
+  eval_only: false
+  max_train_iters: -1
+  max_val_iters: -1
+  check_hce_input_gradients: true
+  routing_texture_bias: 6.0
+  routing_hold_epochs: 10
+  routing_decay_end_epoch: 60
+
+RD:
+  rd_stepwise_clamp: true
+  rd_epochs: 20
+  rd_hidden_channels: 32
+  rd_num_blocks: 4
+  rd_residual_cap: 0.01
+  rd_chain_residual_cap: 0.03
+  rd_lr: 0.00005
+  rd_chain_lr: 0.0001
+  rd_min_lr: 0.000001
+  rd_weight_decay: 0.0001
+  rd_loss_secret2: 2.0
+  rd_loss_secret1: 3.0
+  rd_loss_chain_secret1: 1.0
+  rd_loss_native21_secret1: 1.0
+  rd_loss_image2: 0.1
+  rd_loss_image1: 0.1
+  rd_loss_chain_image1: 0.05
+  rd_loss_native21_image1: 0.05
+  rd_loss_consistency: 0.01
+  rd_loss_gradient: 0.01
+  rd_loss_high_pass: 0.01
+  rd_loss_residual: 0.02

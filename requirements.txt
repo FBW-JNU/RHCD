@@ -1,0 +1,5 @@
+# Install PyTorch first (see README.md).
+numpy==1.23.5
+opencv-python-headless==4.6.0.66
+PyYAML==6.0
+Pillow==9.4.0

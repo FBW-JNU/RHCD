@@ -1,0 +1,1119 @@
+{
+  "format": "rhcd_pairs_v1",
+  "label": "DIV2K_0801_0900_full100",
+  "rounds": 3,
+  "source_crop_size": 216,
+  "seed": 131,
+  "source_list": "div2k100.txt",
+  "source_list_sha256": "c9f505330c8c0065edde694de0030f3557284d4520b07b027fe72e769d1670ec",
+  "source_count": 100,
+  "pair_count": 100,
+  "source_sha256": {
+    "0801.png": "ab5cf6a1cac2d1c2d0792dbd274fd2e53e42118ab6537771a825fd87aa28a60c",
+    "0802.png": "4ad6f3ca8bf740192042978121f05ec493ddbe5a3da5584eaf0d9699c25ee431",
+    "0803.png": "4b0148a9a1ff877ad9f76e65736a50cc36e10822b5d8ccd2abb2988ff4e1782b",
+    "0804.png": "16b5fdbe808b868bed0be32f235208a1716d44e271a37b79cbc77ab53d2f6bdb",
+    "0805.png": "e28d56feee10c2e2663f347dda574fff736894dba37341d37b91bac2ecd863b2",
+    "0806.png": "36720ddd59f8b3eed28f8981e12e6e2d680bfa78b9d25f33ec4152013652c713",
+    "0807.png": "4a2493d918862f703f783dc675bacbae5bd7698aa58f81ddb8bb71cf39ac173a",
+    "0808.png": "956528ab3e0fadad1ed8ce93f93a30bf9f58c36ffa9dd775e2ad362ffdcf5ace",
+    "0809.png": "a0b094da02bcaeabea1976fb939c87366d437bdda1a796fbc3f4700fb5e7bbed",
+    "0810.png": "6940c660b97d2c5f1113101c3e6360d1d6886743c5796cad52224b8076b903f8",
+    "0811.png": "7016bcf4112049162da604772c810bed4f5983af52e07d23755ac2c3475fe8ad",
+    "0812.png": "49e45b8922872b44ece90db047756f3a5356612bb6ee30bdc23df2bd208ec861",
+    "0813.png": "71c06a2c36979345c99c887e7bd6aebfd0bd1648d93b7bd15f56c65e1291b37e",
+    "0814.png": "2fec903d11d2a79070268a4316c100f8314eaadd8f8a65cce152f14826f04876",
+    "0815.png": "c8f278e51f2bc9be7a696935b7e386eb4adafde24572d8ecdd4edf8adf4b4108",
+    "0816.png": "87b7b2a666c92efdb24eadf67bc0c68bce5560ee89bd0532f50f94d8cf88b434",
+    "0817.png": "fdb28a6df3408758cc6d87563a157081c22d1325ea6d8034405ce45abcfc3879",
+    "0818.png": "8679d88891d7e8491fd61abded2c6864d90f5c1817b300f5d5796d05bb11488f",
+    "0819.png": "fcbc6cb7e7cdb717e94d8c8eaf659d6b2bfa513aa133c0d2c4a8e2aa96092529",
+    "0820.png": "2617cfc25dd5442cc017bd17aa24ecae4751b1e5ed6013e8adddb727617bcd5b",
+    "0821.png": "0eb14dfcb1d21cb5d3437dc5135c458154cd7fabed8147fbdc415d3ef671c14b",
+    "0822.png": "a1d308fd62adecb1ea8b0fa8d0c687c92d3cf0d3358e598c8b97aca1b9cf8ad0",
+    "0823.png": "8db26bddf2ac9975e5227be3eb1180f6377145eee5dca1e421100014cbd7ef6e",
+    "0824.png": "484316545f6b08655d30faa1bc5f29eb6821d049b62bb528319b504790c188e2",
+    "0825.png": "0db87d6f7d6cf3a12fc384d8232c337fe0f509f2518845166c1033e22169115d",
+    "0826.png": "b0f675a14e8fe9f2ec0b705bee98d75f8a22478eafdc1a0a0afc0f820bc5ab4d",
+    "0827.png": "e8cfa94ed77a021b63da63406940de3a830fe1217e752b5929d50602a1aaa407",
+    "0828.png": "a62013e252fa503920f54b9b1eff9babd501c742d2c82c97d7c22394493ffa12",
+    "0829.png": "de81c82e13d499226fd96505b6a72f59b6b8506c03ff0b6d06b6393d066f68a4",
+    "0830.png": "4eb18566ab01447a06daf0314a3711aa78cea5ca0eaa47cfedafbceeb6dd0a3e",
+    "0831.png": "343c5d2665d9c5efd7a5444e72d383f63d96bac35902ed088c9a3ee88e0d4ed2",
+    "0832.png": "5c609d644b5924900e82dbecadfb85497b77d6cfad52a0c4c7e43a83f9868c33",
+    "0833.png": "2e9668b3a318284ec90c9bbdd940317ecd2f7b95314e68c48c94d2380fad679a",
+    "0834.png": "4d2621a246e4a771754aa0052b91d79dbebfe866d9dbd8200e3c68e038a3de88",
+    "0835.png": "263cfd9c7d2eee15b29250e6d0dc366ed680feb222de3f8c2fb5c6bd304608e4",
+    "0836.png": "d056c4afc22367640c8ec7a1b84c06eaa7405e29363f0e75ea824e15aec149d0",
+    "0837.png": "4618bd32e1d1a2ef0f4ad3f6b941e3745a97371fd300dad3c5c4c9013caec8db",
+    "0838.png": "01e42bb5efb35d97a9931fc421f793e3c12d0922a3df288bbfd148b6a82a145b",
+    "0839.png": "818abf16ba0aacc3fb6737c5ddd7c2188ca7321b6b28b7f4ba1898627387dee7",
+    "0840.png": "e023c2b2628b7d897d69150baa40be6ceda9fe0e45a0d51348011c6a47b44d86",
+    "0841.png": "0f46093cd84e7ee037d1ded8680f2f39583af5dadac0da580a3911ed482de285",
+    "0842.png": "c6ec845abfd696fcf5f39beadb8632ecc56ac8416318a9dbb27c4c4d294aa592",
+    "0843.png": "3ef88e17c711156a52ef8c7385f01b364ade64bb0d90938debfc4b454e0d1e06",
+    "0844.png": "93da0f98885573c518891c5eb6004818436ae36cf1ed894cfef853e131d9d86d",
+    "0845.png": "35416e153d4ffd1f83df1502dca371db2059e818b72c1e3a95fb9a9266b59172",
+    "0846.png": "eaef63b3b0889ea99559e1e959240393505d9f6d4d5cb7f6a90729b024b4ffb4",
+    "0847.png": "ce39eab49b45fc08177556f7c9ae0d0e928e283fb3cd471bddf0fbf17db8ca73",
+    "0848.png": "4a8f2f4eee348242b17eb7ee72aad9c1c1fe870a1d414db4704819fede40b660",
+    "0849.png": "1d576e20f4720050d0b7af5295b323c342a5284ed75a8ce3bae6e0cb46c89eb6",
+    "0850.png": "1d026bda033ce6fa0db97aa3ec120f3609663f4d0aaf2f9d8e677fdbe235ab03",
+    "0851.png": "1c4bc95887a3c06f9690fec153d5548ec52039c8ba83da749f2b5f6e0d2ecf33",
+    "0852.png": "47f4db4100055a954606d789dfe183612ea7e196a06b2e7bc4bd39c3522628ee",
+    "0853.png": "854189ea5c2a325324500c6cf7168e0b78d30b09606eb5a59f938a5ae69139fe",
+    "0854.png": "f77817c7a5d940baf174efa61d2fbf40354a08ade7a151e155ce62bd2481eca8",
+    "0855.png": "86001004f1eb6a1e182bb2ed3c23093d2656690a61091b2822af1c9124a40141",
+    "0856.png": "cf845f85d9f65570938a15f56fe9de749619f9bee35533944f46bba94f0ff77b",
+    "0857.png": "4fafd48e2926f530129290c9f843490dcbf7809c8505c123a5f18ec2a5005611",
+    "0858.png": "428049494acf4dadf08c5bd62c8711ac258af5fa0f008b5fb389a4fffca96c58",
+    "0859.png": "3ada872de7c5def1d408920385db278b1ff3a5a0cfcab83105a789ff540a1827",
+    "0860.png": "eac29d623ecfab9e2299c04b49e5da3f282a576eb7f9107d0b88076c972ac3ef",
+    "0861.png": "c6fe192a3f1b702948e99c483f04edfb362d2d218082a12457a5b0f09219ffc6",
+    "0862.png": "31a02d7392ee9dadd4b8a2c1b5b9d670943135d0d40e85d4178ab77923c75548",
+    "0863.png": "5e98cca0fbeb2e649fa36a41a06240ce4ec4b05aa23859da13797f8ded0d5c1f",
+    "0864.png": "ca9811dd5910f947ee4dc75f709dcffe17bb7811ca562a0e4bcdefc781eadd76",
+    "0865.png": "46ced1e049fce5a0381c3dc7d7276d058f78a7a7dab5cd88ef7a224cbf51fdb1",
+    "0866.png": "7fc232b9294ea4e6f32bdacc26f314efc067ee0359c5ff1a7000ec61c8da8511",
+    "0867.png": "e3c2ee14a108f50479db683e3a6adc3682374eba236f64c74397fdb55a17b264",
+    "0868.png": "ba7de4237fa7cbdc2fff31f35015711909e501230e7c2f3f01f4e8dcf7a23c95",
+    "0869.png": "68a693195536fc94bc34ce7ff0e041990916fed73164a7c2dce00098a178ac75",
+    "0870.png": "f03f496bb0f21d53012723782bfdbcbbde66115c45c35aa7d83373c304a9c041",
+    "0871.png": "777df9ed736ff3ccc73388e90de36e131c002dfac64767f3b8ebccdd2cd5f058",
+    "0872.png": "028ca10affee013698c7f15068fe4813a9d7b2c24f2bd40dac68305774a5577a",
+    "0873.png": "3fcb2ae160dd255180854eaf54051c40cd205421367d0352144bb7490bc9afb1",
+    "0874.png": "11cb511247d70d84adad5557a720254e5f73e3786dbcd399c6053a1982ce1784",
+    "0875.png": "3c4859b59635fe7fcd6ec182c798eb3af44a2eafb6e8b891df3db62d0da3c5e2",
+    "0876.png": "9d5a819847876bb0061bf1fd42b8bd97e8aef89d1f5fb09b1669b7e9546a25f1",
+    "0877.png": "4e0fb583729accf7b93e07b2b81ce8d919f6490cee2d1f90db90b60095a59165",
+    "0878.png": "e1aff248577bc04ddeba4f48a62aff421ca06450a703e4a450dd401e1efd9546",
+    "0879.png": "ad5eb9637c891994c00f44358cf0a5238f642b8796b5cacaa8b59ba8bb51553a",
+    "0880.png": "db5773c6e460824c5132c23917492fda7acd370c87e9ae6293a0103fee2b642d",
+    "0881.png": "d2fba016ee3cee2395b677524d7ae2b2f6750cea1a6df4edc41f2977bd5d1b7c",
+    "0882.png": "573345fb42061a43fe8f1c0b3b9faf57cdd77189782a4d89b78c31e421f19115",
+    "0883.png": "3355621b3d834c320a66879e6cd23988df29f504f6cdecd22f1984b432a7e55a",
+    "0884.png": "06a928200ad757ff2422ecd2e12986bb90e3bf6b64c6062e5d31f864cdc992bc",
+    "0885.png": "36f1c2b8af6d898354506ef3f78d386156cf1c1f1397c165a84e74cf6484d800",
+    "0886.png": "26af6bcdeea90b9900a021bf20a0550d9a1e107c59b4f05c96e8bccf0ab35db8",
+    "0887.png": "a0a893c9417fcd04067bf254512801f92ae7c795b686e05f7389853c9fb78b11",
+    "0888.png": "82a8d193f4eb0819ad3e48c048d13860d0b8f34d6fafc9b626e304294db3ba12",
+    "0889.png": "a8f73c42065e3193c4deb883dcb3bc432a3f838e9be5bacea708ee39eb2c6e04",
+    "0890.png": "67069da53af2b4f5237030631b0b5e087b8014d7b0f59917d96924aca1ab433c",
+    "0891.png": "8e36e76f3675831c87b2e645e70ef33513b898dc09beb20b0bdcc61cc6d63bed",
+    "0892.png": "7fb05e491f00963e64b53a0f3f7a3d1af51f1434e7fd4898d4b84c479e1f66f9",
+    "0893.png": "cdcef3c0f0dd65da7ca0c4e75b672dd1f87f778740cb42d675bcb13dc1b3c307",
+    "0894.png": "f412ff02984a0de7acc7e1209d02f8dcaa18ac76008fa260cf7c355e4a77976c",
+    "0895.png": "a1c0888648fed4eb909c6e7f5f5db220ae98861294ebfdfa14b2c72567e96b2b",
+    "0896.png": "367c698aa344cea6e790239f04bae168ef204ae771f6ea05285e5255fad2f84f",
+    "0897.png": "dca63f56dba4a2a2c6b920c4b0406c6c6459d8f7ffb0d20322f51fbbc8f14b38",
+    "0898.png": "4cd6696b8e59615ceacff729181dd9b0cc5ea936ea9a57e089bb1fe4fe87c347",
+    "0899.png": "77e25eca6c3828abbea8f7fcf360d9be7f496513aa9ec08ff3f2e3a9c272e60e",
+    "0900.png": "06717f2a8f5d21fcec9a9229a7ecaab44dec0343406a59464382f5c4fdea3023"
+  },
+  "protocol": "All listed covers; distinct secret sources within the same list; center crop or resize",
+  "pairs": [
+    {
+      "id": "pair_000000",
+      "cover": "0801.png",
+      "secrets": [
+        "0887.png",
+        "0873.png",
+        "0867.png"
+      ]
+    },
+    {
+      "id": "pair_000001",
+      "cover": "0802.png",
+      "secrets": [
+        "0877.png",
+        "0860.png",
+        "0808.png"
+      ]
+    },
+    {
+      "id": "pair_000002",
+      "cover": "0803.png",
+      "secrets": [
+        "0893.png",
+        "0815.png",
+        "0847.png"
+      ]
+    },
+    {
+      "id": "pair_000003",
+      "cover": "0804.png",
+      "secrets": [
+        "0821.png",
+        "0877.png",
+        "0845.png"
+      ]
+    },
+    {
+      "id": "pair_000004",
+      "cover": "0805.png",
+      "secrets": [
+        "0801.png",
+        "0824.png",
+        "0893.png"
+      ]
+    },
+    {
+      "id": "pair_000005",
+      "cover": "0806.png",
+      "secrets": [
+        "0855.png",
+        "0886.png",
+        "0816.png"
+      ]
+    },
+    {
+      "id": "pair_000006",
+      "cover": "0807.png",
+      "secrets": [
+        "0857.png",
+        "0838.png",
+        "0877.png"
+      ]
+    },
+    {
+      "id": "pair_000007",
+      "cover": "0808.png",
+      "secrets": [
+        "0877.png",
+        "0840.png",
+        "0813.png"
+      ]
+    },
+    {
+      "id": "pair_000008",
+      "cover": "0809.png",
+      "secrets": [
+        "0897.png",
+        "0857.png",
+        "0896.png"
+      ]
+    },
+    {
+      "id": "pair_000009",
+      "cover": "0810.png",
+      "secrets": [
+        "0811.png",
+        "0883.png",
+        "0813.png"
+      ]
+    },
+    {
+      "id": "pair_000010",
+      "cover": "0811.png",
+      "secrets": [
+        "0836.png",
+        "0851.png",
+        "0847.png"
+      ]
+    },
+    {
+      "id": "pair_000011",
+      "cover": "0812.png",
+      "secrets": [
+        "0880.png",
+        "0889.png",
+        "0804.png"
+      ]
+    },
+    {
+      "id": "pair_000012",
+      "cover": "0813.png",
+      "secrets": [
+        "0816.png",
+        "0846.png",
+        "0886.png"
+      ]
+    },
+    {
+      "id": "pair_000013",
+      "cover": "0814.png",
+      "secrets": [
+        "0882.png",
+        "0869.png",
+        "0895.png"
+      ]
+    },
+    {
+      "id": "pair_000014",
+      "cover": "0815.png",
+      "secrets": [
+        "0837.png",
+        "0884.png",
+        "0898.png"
+      ]
+    },
+    {
+      "id": "pair_000015",
+      "cover": "0816.png",
+      "secrets": [
+        "0883.png",
+        "0843.png",
+        "0814.png"
+      ]
+    },
+    {
+      "id": "pair_000016",
+      "cover": "0817.png",
+      "secrets": [
+        "0823.png",
+        "0848.png",
+        "0882.png"
+      ]
+    },
+    {
+      "id": "pair_000017",
+      "cover": "0818.png",
+      "secrets": [
+        "0825.png",
+        "0838.png",
+        "0879.png"
+      ]
+    },
+    {
+      "id": "pair_000018",
+      "cover": "0819.png",
+      "secrets": [
+        "0804.png",
+        "0845.png",
+        "0860.png"
+      ]
+    },
+    {
+      "id": "pair_000019",
+      "cover": "0820.png",
+      "secrets": [
+        "0848.png",
+        "0854.png",
+        "0873.png"
+      ]
+    },
+    {
+      "id": "pair_000020",
+      "cover": "0821.png",
+      "secrets": [
+        "0829.png",
+        "0876.png",
+        "0827.png"
+      ]
+    },
+    {
+      "id": "pair_000021",
+      "cover": "0822.png",
+      "secrets": [
+        "0834.png",
+        "0807.png",
+        "0854.png"
+      ]
+    },
+    {
+      "id": "pair_000022",
+      "cover": "0823.png",
+      "secrets": [
+        "0869.png",
+        "0819.png",
+        "0822.png"
+      ]
+    },
+    {
+      "id": "pair_000023",
+      "cover": "0824.png",
+      "secrets": [
+        "0812.png",
+        "0839.png",
+        "0876.png"
+      ]
+    },
+    {
+      "id": "pair_000024",
+      "cover": "0825.png",
+      "secrets": [
+        "0830.png",
+        "0861.png",
+        "0876.png"
+      ]
+    },
+    {
+      "id": "pair_000025",
+      "cover": "0826.png",
+      "secrets": [
+        "0877.png",
+        "0848.png",
+        "0825.png"
+      ]
+    },
+    {
+      "id": "pair_000026",
+      "cover": "0827.png",
+      "secrets": [
+        "0854.png",
+        "0884.png",
+        "0816.png"
+      ]
+    },
+    {
+      "id": "pair_000027",
+      "cover": "0828.png",
+      "secrets": [
+        "0822.png",
+        "0823.png",
+        "0838.png"
+      ]
+    },
+    {
+      "id": "pair_000028",
+      "cover": "0829.png",
+      "secrets": [
+        "0887.png",
+        "0866.png",
+        "0819.png"
+      ]
+    },
+    {
+      "id": "pair_000029",
+      "cover": "0830.png",
+      "secrets": [
+        "0876.png",
+        "0817.png",
+        "0855.png"
+      ]
+    },
+    {
+      "id": "pair_000030",
+      "cover": "0831.png",
+      "secrets": [
+        "0819.png",
+        "0826.png",
+        "0805.png"
+      ]
+    },
+    {
+      "id": "pair_000031",
+      "cover": "0832.png",
+      "secrets": [
+        "0898.png",
+        "0808.png",
+        "0873.png"
+      ]
+    },
+    {
+      "id": "pair_000032",
+      "cover": "0833.png",
+      "secrets": [
+        "0825.png",
+        "0841.png",
+        "0834.png"
+      ]
+    },
+    {
+      "id": "pair_000033",
+      "cover": "0834.png",
+      "secrets": [
+        "0820.png",
+        "0861.png",
+        "0853.png"
+      ]
+    },
+    {
+      "id": "pair_000034",
+      "cover": "0835.png",
+      "secrets": [
+        "0826.png",
+        "0880.png",
+        "0814.png"
+      ]
+    },
+    {
+      "id": "pair_000035",
+      "cover": "0836.png",
+      "secrets": [
+        "0839.png",
+        "0866.png",
+        "0817.png"
+      ]
+    },
+    {
+      "id": "pair_000036",
+      "cover": "0837.png",
+      "secrets": [
+        "0859.png",
+        "0821.png",
+        "0890.png"
+      ]
+    },
+    {
+      "id": "pair_000037",
+      "cover": "0838.png",
+      "secrets": [
+        "0868.png",
+        "0895.png",
+        "0833.png"
+      ]
+    },
+    {
+      "id": "pair_000038",
+      "cover": "0839.png",
+      "secrets": [
+        "0821.png",
+        "0899.png",
+        "0826.png"
+      ]
+    },
+    {
+      "id": "pair_000039",
+      "cover": "0840.png",
+      "secrets": [
+        "0806.png",
+        "0875.png",
+        "0805.png"
+      ]
+    },
+    {
+      "id": "pair_000040",
+      "cover": "0841.png",
+      "secrets": [
+        "0885.png",
+        "0900.png",
+        "0833.png"
+      ]
+    },
+    {
+      "id": "pair_000041",
+      "cover": "0842.png",
+      "secrets": [
+        "0834.png",
+        "0848.png",
+        "0838.png"
+      ]
+    },
+    {
+      "id": "pair_000042",
+      "cover": "0843.png",
+      "secrets": [
+        "0851.png",
+        "0870.png",
+        "0866.png"
+      ]
+    },
+    {
+      "id": "pair_000043",
+      "cover": "0844.png",
+      "secrets": [
+        "0851.png",
+        "0839.png",
+        "0869.png"
+      ]
+    },
+    {
+      "id": "pair_000044",
+      "cover": "0845.png",
+      "secrets": [
+        "0855.png",
+        "0857.png",
+        "0877.png"
+      ]
+    },
+    {
+      "id": "pair_000045",
+      "cover": "0846.png",
+      "secrets": [
+        "0887.png",
+        "0881.png",
+        "0802.png"
+      ]
+    },
+    {
+      "id": "pair_000046",
+      "cover": "0847.png",
+      "secrets": [
+        "0882.png",
+        "0879.png",
+        "0895.png"
+      ]
+    },
+    {
+      "id": "pair_000047",
+      "cover": "0848.png",
+      "secrets": [
+        "0861.png",
+        "0877.png",
+        "0819.png"
+      ]
+    },
+    {
+      "id": "pair_000048",
+      "cover": "0849.png",
+      "secrets": [
+        "0872.png",
+        "0851.png",
+        "0822.png"
+      ]
+    },
+    {
+      "id": "pair_000049",
+      "cover": "0850.png",
+      "secrets": [
+        "0870.png",
+        "0891.png",
+        "0896.png"
+      ]
+    },
+    {
+      "id": "pair_000050",
+      "cover": "0851.png",
+      "secrets": [
+        "0810.png",
+        "0855.png",
+        "0847.png"
+      ]
+    },
+    {
+      "id": "pair_000051",
+      "cover": "0852.png",
+      "secrets": [
+        "0849.png",
+        "0847.png",
+        "0841.png"
+      ]
+    },
+    {
+      "id": "pair_000052",
+      "cover": "0853.png",
+      "secrets": [
+        "0830.png",
+        "0822.png",
+        "0829.png"
+      ]
+    },
+    {
+      "id": "pair_000053",
+      "cover": "0854.png",
+      "secrets": [
+        "0877.png",
+        "0837.png",
+        "0830.png"
+      ]
+    },
+    {
+      "id": "pair_000054",
+      "cover": "0855.png",
+      "secrets": [
+        "0838.png",
+        "0852.png",
+        "0863.png"
+      ]
+    },
+    {
+      "id": "pair_000055",
+      "cover": "0856.png",
+      "secrets": [
+        "0805.png",
+        "0864.png",
+        "0820.png"
+      ]
+    },
+    {
+      "id": "pair_000056",
+      "cover": "0857.png",
+      "secrets": [
+        "0878.png",
+        "0884.png",
+        "0859.png"
+      ]
+    },
+    {
+      "id": "pair_000057",
+      "cover": "0858.png",
+      "secrets": [
+        "0896.png",
+        "0803.png",
+        "0872.png"
+      ]
+    },
+    {
+      "id": "pair_000058",
+      "cover": "0859.png",
+      "secrets": [
+        "0842.png",
+        "0856.png",
+        "0862.png"
+      ]
+    },
+    {
+      "id": "pair_000059",
+      "cover": "0860.png",
+      "secrets": [
+        "0897.png",
+        "0863.png",
+        "0857.png"
+      ]
+    },
+    {
+      "id": "pair_000060",
+      "cover": "0861.png",
+      "secrets": [
+        "0828.png",
+        "0841.png",
+        "0862.png"
+      ]
+    },
+    {
+      "id": "pair_000061",
+      "cover": "0862.png",
+      "secrets": [
+        "0869.png",
+        "0855.png",
+        "0805.png"
+      ]
+    },
+    {
+      "id": "pair_000062",
+      "cover": "0863.png",
+      "secrets": [
+        "0852.png",
+        "0896.png",
+        "0893.png"
+      ]
+    },
+    {
+      "id": "pair_000063",
+      "cover": "0864.png",
+      "secrets": [
+        "0849.png",
+        "0840.png",
+        "0832.png"
+      ]
+    },
+    {
+      "id": "pair_000064",
+      "cover": "0865.png",
+      "secrets": [
+        "0880.png",
+        "0868.png",
+        "0853.png"
+      ]
+    },
+    {
+      "id": "pair_000065",
+      "cover": "0866.png",
+      "secrets": [
+        "0850.png",
+        "0896.png",
+        "0868.png"
+      ]
+    },
+    {
+      "id": "pair_000066",
+      "cover": "0867.png",
+      "secrets": [
+        "0837.png",
+        "0871.png",
+        "0817.png"
+      ]
+    },
+    {
+      "id": "pair_000067",
+      "cover": "0868.png",
+      "secrets": [
+        "0862.png",
+        "0802.png",
+        "0823.png"
+      ]
+    },
+    {
+      "id": "pair_000068",
+      "cover": "0869.png",
+      "secrets": [
+        "0833.png",
+        "0868.png",
+        "0863.png"
+      ]
+    },
+    {
+      "id": "pair_000069",
+      "cover": "0870.png",
+      "secrets": [
+        "0846.png",
+        "0806.png",
+        "0869.png"
+      ]
+    },
+    {
+      "id": "pair_000070",
+      "cover": "0871.png",
+      "secrets": [
+        "0881.png",
+        "0830.png",
+        "0886.png"
+      ]
+    },
+    {
+      "id": "pair_000071",
+      "cover": "0872.png",
+      "secrets": [
+        "0863.png",
+        "0804.png",
+        "0847.png"
+      ]
+    },
+    {
+      "id": "pair_000072",
+      "cover": "0873.png",
+      "secrets": [
+        "0875.png",
+        "0864.png",
+        "0900.png"
+      ]
+    },
+    {
+      "id": "pair_000073",
+      "cover": "0874.png",
+      "secrets": [
+        "0900.png",
+        "0877.png",
+        "0866.png"
+      ]
+    },
+    {
+      "id": "pair_000074",
+      "cover": "0875.png",
+      "secrets": [
+        "0833.png",
+        "0869.png",
+        "0802.png"
+      ]
+    },
+    {
+      "id": "pair_000075",
+      "cover": "0876.png",
+      "secrets": [
+        "0802.png",
+        "0826.png",
+        "0848.png"
+      ]
+    },
+    {
+      "id": "pair_000076",
+      "cover": "0877.png",
+      "secrets": [
+        "0851.png",
+        "0854.png",
+        "0819.png"
+      ]
+    },
+    {
+      "id": "pair_000077",
+      "cover": "0878.png",
+      "secrets": [
+        "0830.png",
+        "0848.png",
+        "0888.png"
+      ]
+    },
+    {
+      "id": "pair_000078",
+      "cover": "0879.png",
+      "secrets": [
+        "0846.png",
+        "0812.png",
+        "0830.png"
+      ]
+    },
+    {
+      "id": "pair_000079",
+      "cover": "0880.png",
+      "secrets": [
+        "0820.png",
+        "0845.png",
+        "0802.png"
+      ]
+    },
+    {
+      "id": "pair_000080",
+      "cover": "0881.png",
+      "secrets": [
+        "0852.png",
+        "0873.png",
+        "0814.png"
+      ]
+    },
+    {
+      "id": "pair_000081",
+      "cover": "0882.png",
+      "secrets": [
+        "0835.png",
+        "0873.png",
+        "0817.png"
+      ]
+    },
+    {
+      "id": "pair_000082",
+      "cover": "0883.png",
+      "secrets": [
+        "0877.png",
+        "0874.png",
+        "0882.png"
+      ]
+    },
+    {
+      "id": "pair_000083",
+      "cover": "0884.png",
+      "secrets": [
+        "0816.png",
+        "0848.png",
+        "0891.png"
+      ]
+    },
+    {
+      "id": "pair_000084",
+      "cover": "0885.png",
+      "secrets": [
+        "0837.png",
+        "0880.png",
+        "0817.png"
+      ]
+    },
+    {
+      "id": "pair_000085",
+      "cover": "0886.png",
+      "secrets": [
+        "0893.png",
+        "0883.png",
+        "0827.png"
+      ]
+    },
+    {
+      "id": "pair_000086",
+      "cover": "0887.png",
+      "secrets": [
+        "0874.png",
+        "0869.png",
+        "0865.png"
+      ]
+    },
+    {
+      "id": "pair_000087",
+      "cover": "0888.png",
+      "secrets": [
+        "0895.png",
+        "0854.png",
+        "0833.png"
+      ]
+    },
+    {
+      "id": "pair_000088",
+      "cover": "0889.png",
+      "secrets": [
+        "0858.png",
+        "0887.png",
+        "0807.png"
+      ]
+    },
+    {
+      "id": "pair_000089",
+      "cover": "0890.png",
+      "secrets": [
+        "0838.png",
+        "0825.png",
+        "0862.png"
+      ]
+    },
+    {
+      "id": "pair_000090",
+      "cover": "0891.png",
+      "secrets": [
+        "0805.png",
+        "0806.png",
+        "0813.png"
+      ]
+    },
+    {
+      "id": "pair_000091",
+      "cover": "0892.png",
+      "secrets": [
+        "0888.png",
+        "0885.png",
+        "0887.png"
+      ]
+    },
+    {
+      "id": "pair_000092",
+      "cover": "0893.png",
+      "secrets": [
+        "0888.png",
+        "0869.png",
+        "0895.png"
+      ]
+    },
+    {
+      "id": "pair_000093",
+      "cover": "0894.png",
+      "secrets": [
+        "0848.png",
+        "0805.png",
+        "0866.png"
+      ]
+    },
+    {
+      "id": "pair_000094",
+      "cover": "0895.png",
+      "secrets": [
+        "0835.png",
+        "0853.png",
+        "0881.png"
+      ]
+    },
+    {
+      "id": "pair_000095",
+      "cover": "0896.png",
+      "secrets": [
+        "0832.png",
+        "0808.png",
+        "0875.png"
+      ]
+    },
+    {
+      "id": "pair_000096",
+      "cover": "0897.png",
+      "secrets": [
+        "0847.png",
+        "0849.png",
+        "0825.png"
+      ]
+    },
+    {
+      "id": "pair_000097",
+      "cover": "0898.png",
+      "secrets": [
+        "0821.png",
+        "0887.png",
+        "0842.png"
+      ]
+    },
+    {
+      "id": "pair_000098",
+      "cover": "0899.png",
+      "secrets": [
+        "0820.png",
+        "0895.png",
+        "0881.png"
+      ]
+    },
+    {
+      "id": "pair_000099",
+      "cover": "0900.png",
+      "secrets": [
+        "0834.png",
+        "0823.png",
+        "0808.png"
+      ]
+    }
+  ],
+  "path_mode": "relative",
+  "source_crop_rgb8_sha256": {
+    "0801.png": "6e1b52f0833bed40b18bdcd2b73ada7359e2bf21874c1dac4ebb94682954593a",
+    "0802.png": "cd7000d47fdf2b036856891a9d9ceab2b91e46b98426f32bb43a5e29320069f0",
+    "0803.png": "bffbd046c06f6fb37109f3ce90a3d5b2a16f908938f3598eeba8f1dd5bd8be97",
+    "0804.png": "6a1a846b88757ecb08dae2a63f20904e0f7f1a525a325ac93c5ac85f3aabf602",
+    "0805.png": "de83d03f8c2dc27f7d5af4c7f732a601c1e2f946692a44f14aee527cbe67d431",
+    "0806.png": "c0a2e316401fe4605166f9861ac8832e1e82a06556b3aee460ece348c34a35e7",
+    "0807.png": "08e3a2e70c66a642dc379085e78472baccc883cf455369e8803d79890d96cc8b",
+    "0808.png": "904dd236e01d05b2bbb870e00e81e441f9a59e1b4c088d10c567e6ecbb1bb134",
+    "0809.png": "859f9f690bfd0e0a9ff961f4402e950f2404fb020414c2429c8540863f29da42",
+    "0810.png": "bbce0a72847d91f7568d4c3e233db66bac088b2091fa02dd3ea977ae1db1b68a",
+    "0811.png": "0c7f662df143d574321b9a75a67c31ac3463903ac73ac83047dd995ddcb0a017",
+    "0812.png": "c378f2f083bda80533df4a03570755a07fd3327e56b99c60d2e76d4478380d23",
+    "0813.png": "8b5ea7575c909991a2f39f284eb8e4155e9feea86e1853dcffd29e25ba7b35f4",
+    "0814.png": "d7496b4583d18c7625368a8c09762e67f9717faf7506a0c741195517ed6638a4",
+    "0815.png": "fa526d38d1fa91334280e38d71ec55e0596f0d0019ab0a6b011b608ae7248df5",
+    "0816.png": "3e1abbf14265e3e9bf1efedc35d74e211fec81ac61a7cb77f797dcae3412ce07",
+    "0817.png": "66a266be774eb51f5a3ed47ca3134ad856193ff76e6ea8ef9324c158e617bfa2",
+    "0818.png": "78b55402a3371a0f7cf1684dca89f2e9e063757d8293558ba9768d419ff8e460",
+    "0819.png": "b100505057a02f7343672d6659eacce3168ce87f524e9c58d103c31d87680b87",
+    "0820.png": "63977a4f84505ffa4612473e9f0f2d81c05e3a7b37e6874eab8d5e2455be11a0",
+    "0821.png": "1289398bc0bfdb5c44151b46fd3eda8eccea35237a5eaabd0fa7db4a585460b5",
+    "0822.png": "d43831c2fd01ff7f9c36f99ab881804d4f7ef0c2fc7295bf708f3e9c1a9ceb6e",
+    "0823.png": "b50f1ccb6ca7aea30cd32aab1817c0f7d4b964ad1fa6d5c745ee6dabb4eaa464",
+    "0824.png": "94b1d6486cb9d62c1ce964e591b3a4e169a4eb754aa99848eb09ec09ffe68ca0",
+    "0825.png": "cfd122e3972d9ce24f06eed3a6613a47e8da8ffc37b519e215ce17514a9287ff",
+    "0826.png": "65d2be76953bf6ac09b968fa0a944198fc90d53236a59a532cda5a9405265099",
+    "0827.png": "4f37209eeaae37ed422b699d1e470bfb45b733b23f55c0281963bf43b524ba08",
+    "0828.png": "27264d784ae76e0c37ffab86f4596c543a78a5c1c1818b57ec8baab027adde1e",
+    "0829.png": "e326ab3502f61e61137db9f2389f12df55c11477875af8a7d8828e8b9b7abd84",
+    "0830.png": "666f83e60d6e5fbbb6ca5d84a7fe809edcb3a0747897c3148b5fc529789661dd",
+    "0831.png": "f85b9d5b8b9b35911468a0f9a79cb82a935d908bf5fdf68e1ee3ac31e89b830f",
+    "0832.png": "a35179b6425a0fc28c3c38e46b345704e2d7b999daa1a81d1dd66435a76655e2",
+    "0833.png": "b6482d911d96955f10fa7c77ba0dea88c081ff0c3a03096276bf81756ebdc26b",
+    "0834.png": "02d4bce8be9325cd7eb6f147e856327bd8cfe2983ce3a5d89754dae21a1ec0ff",
+    "0835.png": "7f963082fe12baf8f333f62f545efa1bb536305a5c672d3c0d42f7d2f0ae4861",
+    "0836.png": "42143a4d57ce7c87f1a23a41bf1fadfc90c5d75cf01a89d816757a94200d5d47",
+    "0837.png": "92c6012d68369626a7ffb34cb7c95ca6d5e4cf831a366e27172e40cc9ba76a45",
+    "0838.png": "1dbb93cbf8cebb8a985ddeb9e64447c5c59f52ae1bba0b34f0497c2b7dd58def",
+    "0839.png": "4eef3d9474eb3a152d964a7a533a50275b763a706010399b1a92db0a551db569",
+    "0840.png": "684113ddaee4e2f2f4110946de26fce152da5be4be3a340329ff10eda8e9968c",
+    "0841.png": "9f3b36b9c3f033bcba53df9bdda8ec842771786a5d702cd6828e5c95dbf3179e",
+    "0842.png": "cd746e15150253aba671320f5219e3e5aa737923144a670497b4ba67ab38ff6b",
+    "0843.png": "8caba834e9fe7c446f77d54f9f0d37351316a37ee38273c76a2a04a8db8c577a",
+    "0844.png": "b436329270f715a923a85f048682d402fe6c51acbfa74241143ef5aeff425c9b",
+    "0845.png": "56bc3d0da21ad97fae2e394729a4cab9ad54aeba77950260131233cd34f9657d",
+    "0846.png": "78486063f92608ff68e772dccb8a031c679391bf3e481ca67dc7cce2747be73f",
+    "0847.png": "4fc63d40a200c41bd3dd3cf2322a7c36bf8a4a3680c64ad9cd14cf13a3df7b0a",
+    "0848.png": "2bc7e365630cff50f6ea1bd160b1432c6d90908f524a7f58888d73b26638b5bc",
+    "0849.png": "0c659144f9a2be9475010d94c3e95144262225bbc5edd5e448a748bf9e8b94ba",
+    "0850.png": "afcf2d762db8929817900000fcbf59465423a5c3590f2cef7e8710e7da85817d",
+    "0851.png": "5a064ba62334377d510b35009b19a37ca43c1c2647572c15db5ee2e7abe4c59a",
+    "0852.png": "cfa292fbfbc7dc3b6203088487b4a9642daffc9a593a66fbb3d2b97ab37613c8",
+    "0853.png": "285abd6190db45084efdb69539e280fb6957d397fc23dda5ebd85ab99eb711b8",
+    "0854.png": "a43c220170ca8bd8a3d987b5e6efe905f7173bccfc6a367f919611a287273694",
+    "0855.png": "75d5415b8f26bb0a70d7ba036ba5128bc6233f983bfaa04e5dfd94dc800bd0fb",
+    "0856.png": "086c838f2a971435bcdeef758bc721374f9d58865d55026f5ce29a4231ce8022",
+    "0857.png": "eb1b4d3fc8969f90e48eb14a54e254b7b327886ca2e29ee37a8c1d6b5877f14d",
+    "0858.png": "d6a65f8b41542a45fcf0091c206ee3e39516d93d42aa38118df77496d1cb8609",
+    "0859.png": "84ba6c77645f86b7eb16c655ff42d84d5aed8f73aeb8357f3f3d154d9551124a",
+    "0860.png": "3458961d23371e80a4b2c447bbf05cc4b8dce7b8b6b1cd87005075aeb0bb2e7b",
+    "0861.png": "a293c5aa9f7e6972af81316b621f09e3bd68a283a11180f82e778b6d0e88f2f1",
+    "0862.png": "d303ae2e64c1002183634daaad06acae84536fa2b5676bf4e26f693960db67ae",
+    "0863.png": "6514e4ef95249721c55d9e03c752222c9bfc0ad05f67a626d3e5bb605d5d89b6",
+    "0864.png": "b644b121f43341da3c8e495e54655ad20b18bab672775996f3c037691d805b6c",
+    "0865.png": "3a4609cb6059285df92dbe9bbdf60f327100844c3a2d8b7a9d30a757ca1b9098",
+    "0866.png": "187e9e7aee417ad72c461cd0b9a1c117cd123c5a53b6ea45836ac6a3cebee63e",
+    "0867.png": "d262fb9d21a8a61129e547f20b748dd930d95c5f5b72ffbdca53547174f4a86f",
+    "0868.png": "e4d7a8c5670b48f71304faf3d49d940fe4a0aaf716bfe114e14b2f9ad5558af4",
+    "0869.png": "7361e7a85331d4654a467a3c01ba37b29953cad690c2591fa4a106d7dde77aff",
+    "0870.png": "fff707bf889b4e12ee1847048de7fe884d5d7a02011d656e19a7b0676f2665f6",
+    "0871.png": "9f73c1f59987044f757d048c0b40644950d16e4b006a60614afd02c876935ff1",
+    "0872.png": "3806fd7a2151c7ae98a99eebc24dd85e03603c52c767f5193bc7312f41f13ded",
+    "0873.png": "f0eab8ab0048836c7e56582820b354f93a7964dc2414faa6bf6eff3803a8a2b2",
+    "0874.png": "3afb0b647651f6357ac563f742c6cbd250cc2a042e48e65840739edf128534d6",
+    "0875.png": "5f7a7e3452ac3cc5d90315f21b3be92324768dd5ab4612b35cf5766abe275318",
+    "0876.png": "7c036dacc621df6e6b6162584dd46809ba1dd7a1487a6dff417e5b94a4523386",
+    "0877.png": "e41b690e7ee356076610b17e897856ed3cc9971f191e1e851fccc155f73b9221",
+    "0878.png": "288477736192bcd61088245e682e61c8a0fc2de62793e394973b27e5852963bb",
+    "0879.png": "3657d2457e081188a3a789dba312207a30912493596ff7d4d593544e2c2ebede",
+    "0880.png": "bc5fadd78a5c4acb290685de03e47f81516be474f18cc6683e48c8f4b35e3082",
+    "0881.png": "f4addbabad16a42d3623e50f44696302747038df8960f8d71371e7688edda49f",
+    "0882.png": "350982faa5f76a9956438b4e4e31e76533593d4a2398e188ca8b108aef093ae2",
+    "0883.png": "3b2b0f267c0ab13cd7d28f32cbb80a6f932f00b5e64444240f7e97c09c2f600f",
+    "0884.png": "d06bf0cabdf9534d38664c3e4aa7026b0b4ace8c5fcc19d93db411029e04ac8e",
+    "0885.png": "d05310f9c6ceb47f425a14b25eb43387c75264da18ec6f542d5fce6128ee4e38",
+    "0886.png": "088fe607395ef906124e890f4cab8daa820bedcaea6c50c4f126f644e04c7534",
+    "0887.png": "79f39549807cf08dd27b6faafd5fca5683e24fd0981a99d3023a59c89e753565",
+    "0888.png": "8c6434683205b15485ba96eeeac510ed98811f0f12f112408acec40506e1f39a",
+    "0889.png": "828a0c526b3754724368c255a28d5e3739b28d2d47c90b39be4ab814d74e2eb7",
+    "0890.png": "4cd30eb6c7b1b2af1f0a95aa995870f424ce2879ddb66e2ad1b0beefa96d955f",
+    "0891.png": "86214588c8318b1b8a0a7d7488339e5156457615ad5b6ce633151ea3e60e7e67",
+    "0892.png": "c39ae371dcf49fe8acb1df9887093cb7a69501e718597295044ecae49bba5c3c",
+    "0893.png": "0efaff3ede2c2e0b1e30702b3196a4ee85cd802478f8bb683b9d605c1cc6af68",
+    "0894.png": "4581f2ef62aced6ee79f57852d97c0db5bbb2ee827e2f8f17d1fb39cb66c9f10",
+    "0895.png": "0d13b2f773dd1255f57114f082f3e702c3760aec52657c88f2d97a4bae097ea6",
+    "0896.png": "c14dba61deb3c7596a4eced58e326b5f4eb71f5f7e16e16cfb38ff61baab7073",
+    "0897.png": "c98aa904a3b6a7a2ac61fce2b0b743d20f903e190aefb11a13a775828edbe7ba",
+    "0898.png": "30b4d9c9b13965ee5953b695e96e48d5e47ee98dd0cb76b14301aab36a790f6c",
+    "0899.png": "ed309a3c63f95d19edc8041eca158a219e75f061eab123a7e42b0ddfce0faf9d",
+    "0900.png": "884971aca4d3045abc7cfece4da0ddf28a31e3fe7c8c4bd127cdbf34b3143ee6"
+  }
+}
